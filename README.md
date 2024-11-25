@@ -1,6 +1,3 @@
-# Criando um arquivo README.md com o conteúdo gerado
-
-readme_content = """
 # To-Do List Application 📝
 
 Este é um sistema de **To-Do List** desenvolvido usando **Flask** como frontend, **FastAPI** como backend e **PostgreSQL** como banco de dados. O projeto foi configurado para ser executado em contêineres Docker, facilitando a implantação e o uso.
